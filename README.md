@@ -21,7 +21,7 @@ yarn install
 To start the application, run:
 
 ```sh
-yarn start
+yarn dev
 ```
 
 ## Features
