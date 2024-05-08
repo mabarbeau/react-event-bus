@@ -1,4 +1,4 @@
-# Project Title
+# React Event Bus
 
 This is a simple React application that demonstrates shared state management between components using an event bus.
 
